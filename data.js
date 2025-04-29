@@ -35,4 +35,16 @@ export default [
         dates: "01 Oct, 2021 - 18 Nov, 2021",
         text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
+    {
+        id: 4,
+        img: {
+            src: "/IMG_Catalina.jpg",
+            alt: "Catalina Island"
+        },
+        title: "Catalina Island",
+        country: "USA",
+        googleMapsLink: "https://maps.app.goo.gl/7tP3sejoGSW4tfDL9",
+        dates: "2016",
+        text: "Scenic island 22 miles off the Southern California coast with hotels, beaches & seafood restaurants."
+    },
 ]
