@@ -2,14 +2,14 @@ export default [
     {
         id: 1,
         img: {
-            src: "https://scrimba.com/links/travel-journal-japan-image-url",
-            alt: "Mount Fuji"
+            src: "/IMG_Amsterdam.jpg",
+            alt: "Amsterdam"
         },
-        title: "Mount Fuji",
-        country: "Japan",
-        googleMapsLink: "https://maps.app.goo.gl/6RLYZDuuuqJ7kNGZ9",
-        dates: "12 Jan, 2021 - 24 Jan, 2021",
-        text: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
+        title: "Amsterdam",
+        country: "Netherlands",
+        googleMapsLink: "https://maps.app.goo.gl/oFf3DZJM9uuQ6HUf9",
+        dates: "2011",
+        text: "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths."
     },
     {
         id: 2,
