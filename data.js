@@ -26,14 +26,14 @@ export default [
     {
         id: 3,
         img: {
-            src: "https://scrimba.com/links/travel-journal-norway-image-url",
-            alt: "Geirangerfjord"
+            src: "/DSC_MontazumaCastle.jpg",
+            alt: "Montezuma's Castle"
         },
-        title: "Geirangerfjord",
-        country: "Norway",
-        googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
-        dates: "01 Oct, 2021 - 18 Nov, 2021",
-        text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
+        title: "Montezuma's Castle",
+        country: "USA",
+        googleMapsLink: "https://maps.app.goo.gl/UPRMzP4epNmsguGw5",
+        dates: "2008",
+        text: "Cliff dwelling ruins of the Sinagua people dating back to the 12th century overlooking Beaver Creek."
     },
     {
         id: 4,
