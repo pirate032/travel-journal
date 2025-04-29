@@ -59,4 +59,16 @@ export default [
         dates: "2011",
         text: "Cologne, a 2,000-year-old city spanning the Rhine River in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the twin-spired Cologne Cathedral is also known for its gilded medieval reliquary and sweeping river views. The adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities."
     },
+    {
+        id: 6,
+        img: {
+            src: "/IMG_MissionSanXavier.jpg",
+            alt: "Mission San Xavier"
+        },
+        title: "Mission San Xavier",
+        country: "USA",
+        googleMapsLink: "https://maps.app.goo.gl/66oDz3N4PCdnZ47E6",
+        dates: "2010",
+        text: "Completed in 1797, this iconic mission church features baroque architecture & painted artwork."
+    },
 ]
