@@ -21,7 +21,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/bTLU28bdqx7WTTb8A",
         dates: "2007",
-        text: "Gothic-style prison-turned-attraction with tours of Al Capone's cell, exhibits & a haunted house."
+        text: "Gothic-style prison-turned-attraction with tours of Al Capone's cell, exhibits & a haunted house. Near Philadelphia, PA."
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/UPRMzP4epNmsguGw5",
         dates: "2008",
-        text: "Cliff dwelling ruins of the Sinagua people dating back to the 12th century overlooking Beaver Creek."
+        text: "Cliff dwelling ruins of the Sinagua people dating back to the 12th century overlooking Beaver Creek. Near Phoenix, AZ."
     },
     {
         id: 4,
@@ -69,6 +69,18 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/66oDz3N4PCdnZ47E6",
         dates: "2010",
-        text: "Completed in 1797, this iconic mission church features baroque architecture & painted artwork."
+        text: "Completed in 1797, this iconic mission church features baroque architecture & painted artwork. Near Tucson, AZ."
+    },
+    {
+        id: 7,
+        img: {
+            src: "/IMG_Aachen.jpg",
+            alt: "Aachen"
+        },
+        title: "Aachen",
+        country: "Germany",
+        googleMapsLink: "https://maps.app.goo.gl/r1g6ibCXDEnTV8YN9",
+        dates: "2011",
+        text: "Aachen is a spa city near Germany’s borders with Belgium and the Netherlands. Aachen Cathedral was founded around 800 A.D. and a Gothic chancel was added later. Its Domschatzkammer (treasury) has medieval artifacts including the shrine of Charlemagne, who was buried here in 814 A.D. Nearby is the baroque town hall, Aachener Rathaus, with 19th-century frescoes. Sulfurous water fills the fountains of Elisenbrunnen."
     },
 ]
