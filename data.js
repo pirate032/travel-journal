@@ -21,7 +21,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/bTLU28bdqx7WTTb8A",
         dates: "2007",
-        text: "Gothic-style prison-turned-attraction with tours of Al Capone's cell, exhibits & a haunted house. Near Philadelphia, PA."
+        text: "Gothic-style prison-turned-attraction with tours of Al Capone's cell, exhibits, ghost hunts & a haunted house at Halloween. Near Philadelphia, PA."
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/UPRMzP4epNmsguGw5",
         dates: "2008",
-        text: "Cliff dwelling ruins of the Sinagua people dating back to the 12th century overlooking Beaver Creek. Near Phoenix, AZ."
+        text: "Cliff dwelling ruins of the Sinagua people dating back to the 12th century overlooking Beaver Creek. Near Phoenix, AZ. Unfortunately, you can't go inside."
     },
     {
         id: 4,
@@ -45,7 +45,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/7tP3sejoGSW4tfDL9",
         dates: "2016",
-        text: "Scenic island 22 miles off the Southern California coast with hotels, beaches & seafood restaurants."
+        text: "Scenic island 22 miles off the Southern California coast with hotels, beaches & seafood restaurants. They also have buffalo!"
     },
     {
         id: 5,
@@ -69,7 +69,7 @@ export default [
         country: "USA",
         googleMapsLink: "https://maps.app.goo.gl/66oDz3N4PCdnZ47E6",
         dates: "2010",
-        text: "Completed in 1797, this iconic mission church features baroque architecture & painted artwork. Near Tucson, AZ."
+        text: "Completed in 1797, this partially restored, iconic mission church features baroque architecture & painted artwork. Near Tucson, AZ."
     },
     {
         id: 7,
