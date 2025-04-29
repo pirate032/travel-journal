@@ -83,4 +83,16 @@ export default [
         dates: "2011",
         text: "Aachen is a spa city near Germany’s borders with Belgium and the Netherlands. Aachen Cathedral was founded around 800 A.D. and a Gothic chancel was added later. Its Domschatzkammer (treasury) has medieval artifacts including the shrine of Charlemagne, who was buried here in 814 A.D. Nearby is the baroque town hall, Aachener Rathaus, with 19th-century frescoes. Sulfurous water fills the fountains of Elisenbrunnen."
     },
+    {
+        id: 8,
+        img: {
+            src: "/DSC_GrandCanyon.jpg",
+            alt: "Grand Canyon"
+        },
+        title: "Grand Canyon",
+        country: "USA",
+        googleMapsLink: "https://maps.app.goo.gl/x9XvtKQiQpEE4eYo6",
+        dates: "2008",
+        text: "Beyond its scenic overlooks, this mile-deep geologic wonder features hikes, mule rides & rafting."
+    },
 ]
