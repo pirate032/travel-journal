@@ -47,4 +47,16 @@ export default [
         dates: "2016",
         text: "Scenic island 22 miles off the Southern California coast with hotels, beaches & seafood restaurants."
     },
+    {
+        id: 5,
+        img: {
+            src: "/IMG_Cologne.jpg",
+            alt: "Cologne"
+        },
+        title: "Cologne",
+        country: "Germany",
+        googleMapsLink: "https://maps.app.goo.gl/w3zHf8hr4WWyHGkq5",
+        dates: "2011",
+        text: "Cologne, a 2,000-year-old city spanning the Rhine River in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the twin-spired Cologne Cathedral is also known for its gilded medieval reliquary and sweeping river views. The adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities."
+    },
 ]
